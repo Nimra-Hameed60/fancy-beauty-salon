@@ -48,15 +48,15 @@ export function SiteFooter() {
 
           <p className="flex gap-2 text-sm text-muted-foreground">
             <MapPin className="mt-0.5 size-4 shrink-0 text-gold-deep" />
-            Jhumra Road, Raja Sehroz Marquee, Jaranwala, Pakistan
+            Punjab Pakistan
           </p>
 
           <a
-            href="tel:03217289628"
+            href="tel:03238530464"
             className="mt-3 flex items-center gap-2 text-sm text-muted-foreground transition-colors hover:text-primary"
           >
             <Phone className="size-4 text-gold-deep" />
-            0321-7289628
+            0300-1234567
           </a>
         </div>
 
@@ -66,19 +66,19 @@ export function SiteFooter() {
           </p>
 
           <a
-            href="https://instagram.com/fancy_beauty_salon1"
+            href="https://instagram.com"
             target="_blank"
             rel="noreferrer"
             className="flex items-center gap-2 text-sm text-muted-foreground transition-colors hover:text-primary"
           >
             <FaInstagram className="size-4 text-gold-deep" />
-            @fancy_beauty_salon1
+              Instagram
           </a>
         </div>
       </div>
 
       <div className="border-t border-border py-6 text-center text-xs tracking-wide text-muted-foreground">
-        © 2026 Fancy Beauty Salon. All Rights Reserved.
+        © 2026 fancy Beauty Salon. All Rights Reserved.
       </div>
     </footer>
   );

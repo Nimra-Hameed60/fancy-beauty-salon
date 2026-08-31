@@ -406,7 +406,7 @@ export default function Home() {
                   href="tel:03217289628"
                   className="inline-flex items-center gap-2 rounded-full bg-background px-6 py-3.5 text-sm font-medium text-foreground transition-transform hover:-translate-y-1"
                 >
-                  Call 0321-7289628
+                  Call 0300-1234567
                 </a>
 
                 <a
@@ -452,7 +452,7 @@ export default function Home() {
                     Fancy Beauty
                   </h3>
                   <p className="mt-2 text-sm leading-6 text-muted-foreground">
-                    Jhumra Road, Raja Sehroz Marquee, Jaranwala, Pakistan.
+                    Punjab Pakistan.
                   </p>
                 </div>
               </div>
